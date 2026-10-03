@@ -4,11 +4,7 @@
   <img src="https://sm.pcmag.com/pcmag_uk/review/a/avg-tuneup/avg-tuneup_uj4h.jpg" alt="AVG TuneUp Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://avg-tune-up.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_AVG_TuneUp-blue?style=for-the-badge&logo=avg" alt="Get AVG TuneUp"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://barbarahernandezy986.github.io/.github/AVG-TuneUp)
 
 ---
 
